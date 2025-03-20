@@ -30,7 +30,7 @@
 ### **1️⃣ Clone the Repository**
 
 ```sh
-git clone 
+git clone https://github.com/Muthukavitha23/Weather-dashboard-.git
 
 ```
 
